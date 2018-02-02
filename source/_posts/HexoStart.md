@@ -6,7 +6,6 @@ tags:
 ### 折腾博客
 #### 前言
 * 逻辑很乱没整理, 不要看这篇文章
-* 搜索是看到一个特别嘲讽的 哈哈哈 回答链接 http://lmgtfy.com/?q=github+page+建站
 * 参考 https://www.ezlippi.com/blog/2015/03/github-pages-blog.html
 * 如果有网络问题可以考虑自己买一个国外服务器搭一个梯子
 #### 操作
@@ -40,3 +39,4 @@ ok
 * 那先将git放在 gitee上吧Ok
 * 启动 hexo server -p 80
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-9228af7f9a61754c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 就这样成功
