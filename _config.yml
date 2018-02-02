@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 孙小二Wuk的个人站
 subtitle:
-description:
-author: John Doe
+description: 孙小二Wuk的个人站, 技术文章, 扯淡随笔, 感情生活基本没有
+author: 孙小二Wuk
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://dozesun.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
