@@ -1,7 +1,7 @@
 ---
 title: hotswapJetty
 date: 2018-02-02 17:13:47
-tags:
+tags: [basic]
 ---
 ### 前言
 ```markdown
@@ -14,6 +14,7 @@ tags:
 * 结果现在 html 上修改不能热加载
 * 感觉问题应该出在 html 修改后 重新velocity模板解析这
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-b8ea105e6fada580.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<!----more--->
 2. <servlet>
 		<servlet-name>default</servlet-name>
 		<init-param>

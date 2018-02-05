@@ -1,7 +1,7 @@
 ---
 title: pythonBasic
 date: 2018-02-02 17:15:04
-tags:
+tags: [python]
 ---
 
 ### pyton review
@@ -18,6 +18,7 @@ tags:
   - Jython 运行于Java平台的Python解释器,编译Python代码为Java字节码
   - IronPython运行于.Net
 * 可以直接 命令行中 python hello.py 执行python文件 hello.py
+<!----more--->
 * Mac与Linux可以直接运行.py文件, win不行需要在文件第一行, 还要命令给文件已执行权限chmod a+x hello.py
   ```python
   #!/usr/bin/env python3

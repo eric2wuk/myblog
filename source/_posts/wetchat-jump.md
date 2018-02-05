@@ -1,7 +1,7 @@
 ---
 title: wetchat_jump
 date: 2018-02-02 17:17:33
-tags:
+tags: [workLog]
 ---
 ### 前言 
 程序员解决问题当然要用程序解决

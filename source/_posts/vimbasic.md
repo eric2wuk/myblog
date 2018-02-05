@@ -1,7 +1,7 @@
 ---
 title: vimbasic
 date: 2018-02-02 17:14:21
-tags:
+tags: [software,basic]
 ---
 #### 前言
 使用vim编辑器理由在于

@@ -1,7 +1,7 @@
 ---
 title: PythonEvn
 date: 2018-02-02 17:06:51
-tags:
+tags: [environment,python ]
 ---
 #### 前言
 ```

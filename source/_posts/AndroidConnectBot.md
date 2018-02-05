@@ -1,7 +1,7 @@
 ---
 title: AndroidConnectBot
 date: 2018-02-02 17:15:54
-tags:
+tags: [software]
 ---
 #### 前言
 * 当需要连接自己的服务器的时候, 身边不一定有电脑, 但手机估计是一定有的,

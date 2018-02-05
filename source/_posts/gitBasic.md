@@ -1,7 +1,7 @@
 ---
 title: gitBasic
 date: 2018-02-02 17:04:44
-tags:
+tags: [git,basic]
 ---
 1. git 学习
     * 廖雪峰的Git教程 git中文手册、比较适合新手

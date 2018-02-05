@@ -1,7 +1,7 @@
 ---
 title: hexo theme
 date: 2018-02-05 13:52:55
-tags:
+tags: [hexo]
 ---
 #### 前言
 * 参考官方文档 https://hexo.io/zh-cn/docs/themes.html

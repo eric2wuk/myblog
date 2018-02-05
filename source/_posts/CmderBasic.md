@@ -2,7 +2,7 @@
 title: CmderBasic
 date: 2018-02-02 17:16:40
 updated: 2018-02-05 10:58:01
-tags:
+tags: [softword,tips]
 ---
 #### 前言
 为什么要换
