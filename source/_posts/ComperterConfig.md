@@ -1,6 +1,7 @@
 ---
 title: ComperterConfig
 date: 2018-02-02 17:18:50
+categories: [coding]
 tags: [workLog,environment]
 ---
 ### 前言

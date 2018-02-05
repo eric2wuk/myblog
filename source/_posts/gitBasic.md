@@ -1,6 +1,7 @@
 ---
 title: gitBasic
 date: 2018-02-02 17:04:44
+categories: [coding]
 tags: [git,basic]
 ---
 1. git 学习

@@ -1,6 +1,7 @@
 ---
 title: hexo服务器deploy
 date: 2018-02-03 16:20:07
+categories: [coding]
 tags: [hexo]
 ---
 ###前言

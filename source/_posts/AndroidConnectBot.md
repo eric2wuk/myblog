@@ -1,6 +1,7 @@
 ---
 title: AndroidConnectBot
 date: 2018-02-02 17:15:54
+categories: [coding]
 tags: [software]
 ---
 #### 前言

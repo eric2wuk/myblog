@@ -1,6 +1,7 @@
 ---
 title: IdeaShorcCut
 date: 2018-02-02 17:12:23
+categories: [coding]
 tags: [tips]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: wetchat_jump
 date: 2018-02-02 17:17:33
+categories: [coding]
 tags: [workLog]
 ---
 ### 前言 

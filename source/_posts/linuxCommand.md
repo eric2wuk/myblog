@@ -1,6 +1,7 @@
 ---
 title: linuxCommand
 date: 2018-02-02 17:09:46
+categories: [coding]
 tags: [linux,basic]
 ---
 #### 前言

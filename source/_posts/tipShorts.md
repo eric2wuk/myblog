@@ -1,6 +1,7 @@
 ---
 title: tipShorts
 date: 2018-02-02 17:18:18
+categories: [coding]
 tags: [tips]
 ---
 ### 前言

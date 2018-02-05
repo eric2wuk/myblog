@@ -1,7 +1,8 @@
 ---
 title: EcsConfig
 date: 2018-02-02 17:08:06
-tags:
+categories: [env]
+tags: []
 ---
 #### 前言
 
