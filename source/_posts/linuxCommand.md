@@ -73,6 +73,9 @@ http://blog.csdn.net/ljianhui/article/details/11100625
  2. 让程序在后台跑后，不会占据终端，我们可以用终端做别的事情。
  ```
  ### 方式
+ * screen 的方式最好用
+    * 安装 yum install screen 
+    *
  * basic
    - jobs      //查看任务，返回任务编号n和进程号
    * bg  %n   //将编号为n的任务转后台运行
@@ -84,6 +87,7 @@ http://blog.csdn.net/ljianhui/article/details/11100625
      [1] 17208
    *  在后台运行作业时要当心：需要用户交互的命令不要放在后台执行，因为这样你的机器就会在那里傻等。不过，作业在后台运行一样会将结果输出到屏幕上，干扰你的工作。如果放在后台运行的作业会产生大量的输出，最好使用下面的方法把它的输出重定向到某个文件中：
  command >out.file 2>&1 &
+ 
  * shell
    ```
    但是如上方到后台执行的进程，其父进程还是当前终端shell的进程，而一旦父进程退出，则会发送hangup信号给所有子进程，子进程收到hangup以后也会退出。如果我们要在退出shell的时候继续运行进程，则需要使用nohup忽略hangup信号，或者setsid将将父进程设为init进程(进程号为1)

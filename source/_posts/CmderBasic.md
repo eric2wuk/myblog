@@ -1,6 +1,7 @@
 ---
 title: CmderBasic
 date: 2018-02-02 17:16:40
+updated: 2018-02-05 10:58:01
 tags:
 ---
 #### 前言
@@ -33,3 +34,9 @@ ps: alias 失效, 最后发现是新版控制台可能出了兼容问题, 切换
 * 我还觉得这个提示符号挺好看的, 结果它存在问题:当输入 5 个以上字符之后，我们按下 Ctrl + Z 恢复输入时最后会残留一个字符删不掉。
 搜了下, 怎样修改 原来参照 http://blog.csdn.net/hicoldcat/article/details/53018216
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-e2be5dfc6e35a871.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### cmder 分屏
+* 开cmder 一般不能是只有一个窗口, 所以分屏自然是需要的
+![image.png](http://upload-images.jianshu.io/upload_images/4832809-62d57fc37cf13fa2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+常用的两个, 存在快捷键冲突, 改了下
+效果是这样的
+![image.png](http://upload-images.jianshu.io/upload_images/4832809-8d0ba69f7b39f9bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

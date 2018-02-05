@@ -77,6 +77,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@gitee.com:dozesun/myblog.git
-  branch: master
+  type: rsync
+  host: 39.106.152.118
+  user: root
+  root: /var/www
+  port: 22
