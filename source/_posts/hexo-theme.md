@@ -3,10 +3,12 @@ title: hexo theme
 date: 2018-02-05 13:52:55
 categories: [coding]
 tags: [hexo]
+comments: true
 ---
 #### 前言
 * 参考官方文档 https://hexo.io/zh-cn/docs/themes.html
 * 参考 https://www.jianshu.com/p/b96fd206571a
+* https://www.jianshu.com/p/efbeddc5eb19
 * 我的个人站基本成形, 就是现在主题需要调整下
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-573d9dc5457dee6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-6b944b34a3f84613.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
