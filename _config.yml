@@ -78,7 +78,7 @@ avatar: /images/JackieChan.gif
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: rsync
+  type: rsyncz
   host: 39.106.152.118
   user: root
   root: /var/www
