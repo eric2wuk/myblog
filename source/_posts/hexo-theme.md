@@ -18,3 +18,6 @@ https://hexo.io/themes/
     * 分享按钮, 不够本地化
 * 正在改的过程中, 咦 NexT好看, 换换
 * github:  https://github.com/iissnan/hexo-theme-next
+* http://www.cnblogs.com/fengxiongZz/p/7707568.html
+* 加了一个好看的头像
+![image.png](http://upload-images.jianshu.io/upload_images/4832809-1f307801e3c3dc8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

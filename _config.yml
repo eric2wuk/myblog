@@ -7,7 +7,7 @@ title: 孙小二Wuk的个人站
 subtitle:
 description: 孙小二Wuk的个人站, 技术文章, 扯淡随笔, 感情生活基本没有
 author: 孙小二Wuk
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -74,6 +74,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+avatar: /images/JackieChan.gif
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
