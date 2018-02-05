@@ -11,6 +11,7 @@ tags:
 * shorts 中添加需要的方式
 * 例如添加chrome 快捷方式 为 ch ![image.png](http://upload-images.jianshu.io/upload_images/4832809-e0c01884877a5e1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * win+r 打开运行窗口
+<!----more--->
 * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-eee89a64b6322490.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 成功
 * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-01d02ef2b6fdecdb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
