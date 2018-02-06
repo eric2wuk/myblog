@@ -21,3 +21,4 @@ categories: [coding]
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-5e076bd192fe8204.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-acfe290f535fd5d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 并不成功
+* 好像应该是gitee上问题, 又试了一下, 结果成功了
