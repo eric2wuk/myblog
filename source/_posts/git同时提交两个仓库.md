@@ -13,4 +13,7 @@ categories: [coding]
 * git remote
 * git add github git@github.com:eric2wuk/myblog.git
 * git pull -u github master
-git push 存在一些问题
+* 不小心和另一个项目弄混了, 一塌糊涂, 只能 git reset, git push -f, 小心翼翼
+####  git remote set-url --add 
+* git remote set-url --add 添加多个push地址
+ ![image.png](http://upload-images.jianshu.io/upload_images/4832809-c681b43019d1a69e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
