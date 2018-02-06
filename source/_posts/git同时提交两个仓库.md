@@ -13,3 +13,4 @@ categories: [coding]
 * git remote
 * git add github git@github.com:eric2wuk/myblog.git
 * git pull -u github master
+git push 存在一些问题
