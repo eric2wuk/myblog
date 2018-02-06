@@ -14,6 +14,7 @@ categories: [coding]
 * git add github git@github.com:eric2wuk/myblog.git
 * git pull -u github master
 * 不小心和另一个项目弄混了, 一塌糊涂, 只能 git reset, git push -f, 小心翼翼
+<!---more--->
 ####  git remote set-url --add 
 * 第一种方式命令多了一步, 麻烦一些
 * 而第二种则好得多
