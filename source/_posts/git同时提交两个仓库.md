@@ -18,3 +18,6 @@ categories: [coding]
 * git remote set-url --add 添加多个push地址
  ![image.png](http://upload-images.jianshu.io/upload_images/4832809-c681b43019d1a69e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 测试一下
+![image.png](http://upload-images.jianshu.io/upload_images/4832809-5e076bd192fe8204.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](http://upload-images.jianshu.io/upload_images/4832809-acfe290f535fd5d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+并不成功
