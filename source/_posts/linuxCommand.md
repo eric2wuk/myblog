@@ -76,7 +76,7 @@ http://blog.csdn.net/ljianhui/article/details/11100625
  ### 方式
  * screen 的方式最好用
     * 安装 yum install screen 
-    *
+    * screen -R name
  * basic
    - jobs      //查看任务，返回任务编号n和进程号
    * bg  %n   //将编号为n的任务转后台运行
