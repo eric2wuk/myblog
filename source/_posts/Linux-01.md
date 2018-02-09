@@ -5,8 +5,8 @@ categories: [coding]
 tags: [Linux,notes,BigDate]
 ---
 #### 前言 
-* Linux 还是要系统的掌握下, 
-重新跟着学习资料系统的整理下
+* 放假了, 我珍藏已久的大数据资料该看一看了,也不跳了, 跟着视频进度走吧
+* 重新跟着学习资料系统的整理下
 #### 笔记
 * Linux 实际为 大神 Linus Torvalds 开发的并开源发行于GPL下的unix 类的系统内核 官网 http://www.kernel.org
 * Linux 是开源的, 由志愿者贡献开发
