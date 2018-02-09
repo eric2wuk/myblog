@@ -33,4 +33,26 @@ tags: [Linux,notes,BigDate,env]
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-b75a50dd1a419f9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     * 选择ios1, ios2 为拓展, 暂不需要
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-7a721b37c0105c9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+* 安装CentOS
+    * 启动虚拟机
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-284f93d35c5db93f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-cc10b979c069de38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * skip
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-7817a31ece04959b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * discard any data
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-a7fe8dd9435f4e43.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * CentOS 6 connet automatically 设置更改, 这是系统网卡选项, 默认不开启, 需要自己修改
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-c5333569b58fd20d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-74daa773b28f9fc7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * 时区 中国上海
+    * 账号密码 root 123456 
+    * use anyway
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-097870ca7b288dd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * 我是要装桌面系统
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-641c2b6cf2d6cba8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * 等吧 15min 左右
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-39d80e515951bbd8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * 重启
+    * forward 下一步, 下一步
+    * 系统时间blabla
+    * ok 成功
