@@ -32,5 +32,5 @@ tags: [Linux,notes,BigDate,env]
     * 编辑虚拟机
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-b75a50dd1a419f9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     * 选择ios1, ios2 为拓展, 暂不需要
-    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-83b9fe30b29f0d03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-7a721b37c0105c9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
