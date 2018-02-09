@@ -1,7 +1,7 @@
 ---
 title: win10内置Linux
 date: 2018-02-08 11:31:35
-tags: [env,linu下,win10]
+tags: [env,linux,win10]
 categories: [coding]
 ---
 ### 前言
