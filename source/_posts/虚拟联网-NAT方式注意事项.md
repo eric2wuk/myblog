@@ -1,7 +1,8 @@
 ---
 title: 虚拟机联网 NAT方式注意事项
 date: 2018-02-10 11:57:09
-tags:
+categories: [coding]
+tags: [Linux,notes,BigDate,env,software]
 ---
 #### 虚拟机联网注意事项:
 * 虚拟机统一已NAT方式连接
