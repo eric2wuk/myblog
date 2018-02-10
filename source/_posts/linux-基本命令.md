@@ -98,8 +98,8 @@ tags: [Linux,notes,BigDate,env,software]
     * vim 是在vi 上的增强
     * 第一次是在window git 上使用, 解决冲突 直接跳出了vim 直懵逼, 连退出都不会, 哈哈哈
     * 记一下常用的
-        * i inset模式 
-        * set nu 显示行号
+        * i insert模式 
+        * :set nu 显示行号
         * dd dd3 删除
         * yy 复制
         * p 粘贴
