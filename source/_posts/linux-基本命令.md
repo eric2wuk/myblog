@@ -97,6 +97,7 @@ tags: [Linux,notes,BigDate,env,software]
 * shutdown 关机命令
 * init 0 关机命令
 * init 6 重启命令
+* exit 退出
 * vi vim (这个内容太多了) http://dozesun.top/2018/02/02/vimbasic/
     * vim 是在vi 上的增强
     * 第一次是在window git 上使用, 解决冲突 直接跳出了vim 直懵逼, 连退出都不会, 哈哈哈
