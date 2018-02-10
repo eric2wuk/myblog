@@ -13,6 +13,7 @@ tags: [Linux,notes,BigDate,env,software]
 * cmder (我用多一些)
 * 其实都差不多, 都是命令行工具而已
 * 连接 ssh root@ip
+<!----more--->
 #### 桌面连接
 * xManager (基本不会有人用, 桌面本来也不用)
 #### FTP
