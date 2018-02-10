@@ -9,6 +9,7 @@ tags: [Linux,notes,BigDate,env]
 * 安装 vm
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-66994f5a05a21273.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-3f7f0307f6a8c5bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<!----more--->
 * ios 镜像  CentOs 64 6.9 (资料是6.4的, 考虑到一致性, 打算找6.4, 可不好找, 7的话怕有不同,耽误时间)
 * Linux 虚拟机操作系统 安装
 * 买了一个128G的固态硬盘, 本来是够的, 但没考虑到 我会折腾虚拟机, 考虑到未来不只一个两个虚拟机, 就不再本机上折腾了, 还好带回来了移动硬盘, 那就装在移动硬盘上吧, 也是凄凉, 贫穷使我窘迫

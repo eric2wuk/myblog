@@ -15,6 +15,7 @@ tags: [Linux,notes,BigDate,env,software]
 * ssh username@ipaddress 连接
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-52dc111d3d688968.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * clear 清屏
+<!----more--->
 #### 目录操作
 * 目录结构为单根倒置树结构, / 为根目录, 以/ 分割
 * 绝对路径 / 相对路径 ./
