@@ -5,6 +5,7 @@ tags:
 ---
 #### 虚拟机联网注意事项:
 * 虚拟机统一已NAT方式连接
+<!----more--->
 * 当虚拟机联网失败排查
     * 确定VMnet8 网卡的ip地址, ivpV4
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-7729fa4250020c4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
