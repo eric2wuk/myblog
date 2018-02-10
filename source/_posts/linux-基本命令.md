@@ -94,6 +94,9 @@ tags: [Linux,notes,BigDate,env,software]
     /etc/sysconfig/network-scripts/ifcfg-eth0
     ```
     * -type 文件类型 d 文件夹 f 文件
+* shutdown 关机命令
+* init 0 关机命令
+* init 6 重启命令
 * vi vim (这个内容太多了) http://dozesun.top/2018/02/02/vimbasic/
     * vim 是在vi 上的增强
     * 第一次是在window git 上使用, 解决冲突 直接跳出了vim 直懵逼, 连退出都不会, 哈哈哈
@@ -107,5 +110,30 @@ tags: [Linux,notes,BigDate,env,software]
         * G 快速定位最后一行
         * gg 快速定位第一行
         * u 撤销 
+        * /string 命令行模式 查找, 字母 n 向下跳转, 字母N向上跳转
         * :1,$s/nologin/88888888/g  从第一行到最后 将nologin替换为8888888 /g通行替换, 不加/g 只替换每行第一个
-        
+* 管道符号 |  --把前一个命令的输出结果传递给后一个命令
+    * 常用后续管道命令 more, head , grep, tail, wc
+    * cat /etc/passwd | tail -n 5
+    * cat /etc/passwd | grep 'root'
+    * ifconfig | grep 'inet6'
+* 追加   >>  覆盖  >  -- 把前一个命令的输出结果追加\覆盖到某个文件
+    * head -3 /etc/passwd >> testpasswd.log
+    * ifconfig | grep 'inet4' >> testinet.log
+* wc 统计
+    * -l 统计行数 (常用)
+* ps 进程
+* CentOS 操作界面 v
+    * 图形化界面 Desktop
+    * 字符界面 (服务器) basic
+    * 切换 /etc/inittab *  id:5:initdefault:
+* CentOS 7种启动模式
+    * Default runlevel. The runlevels used are:
+    *  0 - halt (Do NOT set initdefault to this)
+    *  1 - Single user mode
+    *  2 - Multiuser, without NFS (The same as 3, if you do not have networking)
+    *  3 - Full multiuser mode
+    *  4 - unused
+    *  5 - X11
+    *  6 - reboot (Do NOT set initdefault to this)
+    *  id:5:initdefault:

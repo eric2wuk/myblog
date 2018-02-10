@@ -5,7 +5,7 @@ categories: [coding]
 tags: [Linux,notes,BigDate,env,software]
 ---
 #### 虚拟机联网注意事项:
-* 虚拟机统一已NAT方式连接
+* 虚拟机统一以NAT方式连接
 <!----more--->
 * 当虚拟机联网失败排查
     * 确定VMnet8 网卡的ip地址, ivpV4
