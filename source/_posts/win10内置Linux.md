@@ -1,8 +1,8 @@
 ---
 title: win10内置Linux
 date: 2018-02-08 11:31:35
-tags: [env,linux,win10]
-categories: [coding]
+tags: [env,Linux,win10]
+categories: [windows]
 ---
 ### 前言
 * win10 竟然针对开发人员内置了linux?

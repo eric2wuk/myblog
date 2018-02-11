@@ -1,7 +1,7 @@
 ---
 title: linux 虚拟机安装
 date: 2018-02-09 21:41:46
-categories: [coding]
+categories: [Linux]
 tags: [Linux,notes,BigDate,env]
 ---
 ### 步骤

@@ -1,8 +1,8 @@
 ---
 title: linux 获取磁盘信息, 添加硬盘, 分区
 date: 2018-02-11 20:50:48
-categories: [coding]
-tags: [Linux,notes,BigDate,env,software, LinuxCommand]
+categories: [Linux]
+tags: [Linux,notes,BigDate, LinuxCommand]
 ---
 * 磁盘分区
 * Linux 系统默认所有文件都在/dev 目录下

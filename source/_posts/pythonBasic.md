@@ -1,7 +1,7 @@
 ---
 title: pythonBasic
 date: 2018-02-02 17:15:04
-categories: [coding]
+categories: [python]
 tags: [python]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: markdowngrammer
 date: 2018-02-02 17:06:01
-categories: [coding]
+categories: [markdown]
 tags: [tips,markdown]
 ---
 1. 标题结构

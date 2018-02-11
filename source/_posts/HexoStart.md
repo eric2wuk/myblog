@@ -1,7 +1,7 @@
 ---
 title: Hexo 搭建博客
 date: 2018-02-02 14:27:54
-categories: [coding]
+categories: [hexo]
 tags: [hexo]
 ---
 ### 折腾博客

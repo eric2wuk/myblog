@@ -1,7 +1,7 @@
 ---
 title: hexo theme
 date: 2018-02-05 13:52:55
-categories: [coding]
+categories: [hexo]
 tags: [hexo]
 comments: true
 ---

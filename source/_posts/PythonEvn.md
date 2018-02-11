@@ -1,8 +1,8 @@
 ---
 title: PythonEvn
 date: 2018-02-02 17:06:51
-categories: [coding]
-tags: [environment,python ]
+categories: [python]
+tags: [evn,python ]
 ---
 #### 前言
 ```

@@ -1,7 +1,7 @@
 ---
 title: Linux 初识
 date: 2018-02-09 20:42:38
-categories: [coding]
+categories: [Linux]
 tags: [Linux,notes,BigDate]
 ---
 #### 前言  

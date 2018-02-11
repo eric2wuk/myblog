@@ -1,7 +1,7 @@
 ---
 title: Linux 压缩和解压工具 jar命令
 date: 2018-02-11 20:13:08
-categories: [coding]
+categories: [Linux]
 tags: [Linux,notes,BigDate, LinuxCommand]
 ---
 * tar --打包命令

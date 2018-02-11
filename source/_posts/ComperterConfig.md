@@ -2,7 +2,7 @@
 title: ComperterConfig
 date: 2018-02-02 17:18:50
 categories: [coding]
-tags: [workLog,environment]
+tags: [workLog,env]
 ---
 ### 前言
 工作要换电脑, 记录下

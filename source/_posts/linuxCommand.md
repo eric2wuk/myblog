@@ -1,8 +1,8 @@
 ---
 title: linuxCommand
 date: 2018-02-02 17:09:46
-categories: [coding]
-tags: [linux,basic, LinuxCommand]
+categories: [Linux]
+tags: [Linux,basic, LinuxCommand]
 ---
 #### 前言
 ```

@@ -1,7 +1,7 @@
 ---
 title: linux 连接工具
 date: 2018-02-10 00:10:55
-categories: [coding]
+categories: [Linux]
 tags: [Linux,notes,BigDate,env,software]
 ---
 ### 前言

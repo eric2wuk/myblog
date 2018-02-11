@@ -1,8 +1,8 @@
 ---
 title: linux 基本命令
 date: 2018-02-10 00:35:22
-categories: [coding]
-tags: [Linux,notes,BigDate,env,software, LinuxCommand]
+categories: [Linux]
+tags: [Linux,notes,BigDate, LinuxCommand]
 ---
 #### 前言
 * 我觉得, 我应该跳一下进度了

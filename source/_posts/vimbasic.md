@@ -1,7 +1,7 @@
 ---
 title: vimbasic
 date: 2018-02-02 17:14:21
-categories: [coding]
+categories: [vim]
 tags: [software,basic]
 ---
 #### 前言
