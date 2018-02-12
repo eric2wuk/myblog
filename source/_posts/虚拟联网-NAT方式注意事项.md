@@ -19,4 +19,5 @@ tags: [Linux,notes,BigDate,env,software]
     * service network restart
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-798912755a598691.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-    
+ * 设置静态IP 
+    * 参考 http://blog.csdn.net/exbob/article/details/6410283
