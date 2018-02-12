@@ -1,7 +1,8 @@
 ---
 title: Linux 安装软件 rpm, yum
 date: 2018-02-12 11:22:36
-tags:
+categories: [Linux]
+tags: [Linux,notes,BigDate, LinuxCommand]
 ---
 * 为虚拟机选择光驱镜像 CentOS
 ```jshelllanguage
@@ -32,6 +33,7 @@ dr-xr-xr-x. 2 root root   4096 Mar 29  2017 repodata
 [root@localhost Packages]# ll | wc -l
 3242
 ```
+<!----more--->
 * .rmp --使用
     * -qa 查询已安装的rpm包
     * -ivh packageName --安装
@@ -61,7 +63,7 @@ dr-xr-xr-x. 2 root root   4096 Mar 29  2017 repodata
     ```
     * yum -y install httpd-devel.x86_64  -- 安装 先解析依赖, 同时安装依赖包
         * -y 提示直接y确认
-    * yum -y remove httpd-devel.x86_64
+    * yum -y remove httpd-devel.x86_64  --卸载
     * 配置yum仓库
         * 常用 mirrors.163.com mirrors.sohu.com
         * 仓库配置文件路径 /etc/yum.repos.d
