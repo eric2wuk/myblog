@@ -97,7 +97,19 @@ tags: [Linux,notes,BigDate, LinuxCommand]
 * shutdown 关机命令
 * init 0 关机命令
 * init 6 重启命令
+* top -- 查看系统资源信息
+* free --查看内存的使用情况
+* netstat  --查看端口
+    * -an -- 查看监听端口
+    * -tlcp
+* ps --查看进程
+    * -ef 
+    * -auxg
+* kill -- 杀死进程默认 15正常退出
+    * -9 --强制杀死进程
 * exit 退出
+* sed '匹配条件/执行动作'
+* awk -F: '{print $1}' /etc/passwd
 * vi vim (这个内容太多了) http://dozesun.top/2018/02/02/vimbasic/
     * vim 是在vi 上的增强
     * 第一次是在window git 上使用, 解决冲突 直接跳出了vim 直懵逼, 连退出都不会, 哈哈哈
@@ -124,6 +136,7 @@ tags: [Linux,notes,BigDate, LinuxCommand]
 * wc 统计
     * -l 统计行数 (常用)
 * ps 进程
+* set -- 查看环境变量
 * CentOS 操作界面 v
     * 图形化界面 Desktop
     * 字符界面 (服务器) basic
