@@ -1,5 +1,5 @@
 ---
-title: shellBasic
+title: shellBasic01
 date: 2018-02-13 21:53:00
 categories: [Linux]
 tags: [Linux,notes,BigDate, LinuxCommand]
@@ -30,6 +30,7 @@ tags: [Linux,notes,BigDate, LinuxCommand]
     * $((expression))
     * $[expression] -- [] 等效 两个小括号
     * expr expression -- 符号两侧需要空格
+    <!----more--->
 & 内置判断 -- 成功/成立 -- 失败/不成立
     * test 测试表达式
     * [ 测试表达式 ] -- 测试表达式于中括号之间必须有空格
@@ -84,5 +85,3 @@ tags: [Linux,notes,BigDate, LinuxCommand]
     * -d '7 day ago' '+%Y%m%d%H%M' -- 当前时间7天前 按格式输出 
 * ${变量名:offset:length} -- 截取变量字符串
 * echo ${变量名%.*} -- 截取.之前字符串
-
-    
