@@ -66,6 +66,8 @@ tags: [Linux,notes,BigDate, LinuxCommand]
         #!/bin/bash
         if [ 2 -eq 2 ];then # if后有空格, 中括号中间空格
         echo YES
+        elif
+        cmd
         else
         echo NO
         fi
@@ -76,7 +78,7 @@ tags: [Linux,notes,BigDate, LinuxCommand]
         case $变量名称 in
         条件1)
               命令序列
-        ;;
+        ;; # 两个分号表示结束
         条件2)
         命令序列
         ;;
@@ -85,6 +87,10 @@ tags: [Linux,notes,BigDate, LinuxCommand]
         ;;
         *)
         echo "useage:$0{top:free|df}"
-        ;;
         esac
-```        
+        ```        
+* 函数语法
+    * name(){ 命令序列 } -- 可正常使用$1 $2
+    
+    * function name { 命令序列 }
+    
