@@ -52,4 +52,20 @@ tags: [Linux,notes,BigDate, LinuxCommand]
     [root@localhost ~]# echo $?
     1
     ```
+* 逻辑符号
+    * && 逻辑与 cmd1 && cmd2 -- cmd1命令执行成功, 才执行cmd2
+    * || 逻辑或 -- cmd1 || cmd2 -- cmd1命令执行失败, 才执行cmd2
+    * ; 无逻辑关系, 只表示执行顺序
+* 数值比较
+    * -eq -- ==
+    * -ne -- !=
+    * -gt -- >
+    * -ge -- >=
+    * -lt -- <
+    * -le -- <=
+* 字符串比较
+    * = -- 两侧有空格
+    * !=
+    * -z -- 字串长度为伪则为真
+    * -n -- 字串长度不伪则为真
     
