@@ -57,3 +57,8 @@ tags: [Linux,notes,BigDate,env]
     * forward 下一步, 下一步
     * 系统时间blabla
     * ok 成功
+#### 导入已经安装好的系统
+* ![image.png](http://upload-images.jianshu.io/upload_images/4832809-e480b9016e1c5e07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* vm 中 打开 
+    * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-2f621c451a582548.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 选择 已移动

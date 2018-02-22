@@ -17,7 +17,7 @@ tags: [Linux,notes,BigDate, LinuxCommand]
     * crontab -e --制定计划任务内容
         * 第一行 书写 crontab time 时间格式
             * 分小时日月周命令 -- 不写用星号填写
-                ```jshelllanguage
+                ```jshelllanguageh
                 0 2 * * 3 cp /etc/passwd /tmp # 每周三凌晨2点备份
                 5 1 10,25 * * rm -rf /tmp/*  # 每月10,25号凌晨1点五分执行
                 */10 * * * * * # 每10分钟执行一次
