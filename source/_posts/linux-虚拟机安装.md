@@ -62,3 +62,9 @@ tags: [Linux,notes,BigDate,env]
 * vm 中 打开 
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-2f621c451a582548.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 选择 已移动
+#### 修改 hostname
+* /etc/sysconfig/network
+    * hostname
+#### hosts 配置
+* 更改本机hosts文件, 连接 linux
+* 域名
