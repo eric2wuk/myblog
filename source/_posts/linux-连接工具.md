@@ -29,3 +29,5 @@ tags: [Linux,notes,BigDate,env,software]
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-933fac078751404b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-3f209309e3a4ce02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     * 不能再爽
+#### tips
+* 其实虚拟机ip以及其他的服务器ip, 可以用hosts文件进行管理, 避免后期ip变更, 同时也可以便于重复配置
