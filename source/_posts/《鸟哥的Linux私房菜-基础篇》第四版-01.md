@@ -18,4 +18,14 @@ tags: [Linux,basic, LinuxCommand]
 * 0.4 系统层级 kernel , system call , application     
     * ![image.png](http://upload-images.jianshu.io/upload_images/4832809-8acac1a2486ea37f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     * kernel 主要负责, 系统呼叫接口(System call interface), 程序管理(Process control), 内存管理(Memory management), 文件管理系统(Filesystem management), 设备驱动(device drivers)
+* 4.2.2 基础命令
+    * date 显示系统时间
+    * bc 计算器
+* 4.2.3 常用快捷键
+    * Tab   -- 补齐
+    * ctrl + c -- 终止程序
+    * ctrl + d -- 结束输入
+    * shift + PgUp/PgDn -- 翻页
     
+bookmark 4.1.4 
+page 186 / 1051

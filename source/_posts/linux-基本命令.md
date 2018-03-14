@@ -28,6 +28,11 @@ tags: [Linux,notes,BigDate, LinuxCommand]
     * -a 查看所有文件(以.开头的隐藏文件)
 * ll = ls -l 行打印当前目录文件(包括目录), 权限 创建者 创建时间 大小 blabla
 * man 命令 查看命令参数
+    * 第一行 代号 man Date(1)
+        * 代号 1 -- 用户在shell 环境中可以操作的 指令或可执行文件
+        * 代号 5 -- 配置文件或某些可以执行的文件格式
+        * 代号 8 -- 系统管理员可用的管理命令
+     * q 离开
 * touch 创建文件 (不常用, 多使用vim, vi 创建并编辑)
 * mkdir 创建目录 ll 中 第一个字符 d为目录 - 为普通文件
     ```jshelllanguage
