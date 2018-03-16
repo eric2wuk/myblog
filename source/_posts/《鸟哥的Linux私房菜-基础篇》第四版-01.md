@@ -27,5 +27,5 @@ tags: [Linux,basic, LinuxCommand]
     * ctrl + d -- 结束输入
     * shift + PgUp/PgDn -- 翻页
     
-bookmark 4.1.4 
-page 186 / 1051
+bookmark 5.1 
+page 204 / 1051
