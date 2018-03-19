@@ -55,7 +55,7 @@ tags: [tips]
     * ^+b method declaim
     * ^+enter Complete Current Statement
     * ^+F12 editor max
-6. +^\*
-    * +^n task ?
-    * +^c recent change
-    * +^double left click -- select a lot word
+6. +%\*
+    * +%n task ?
+    * +%c recent change
+    * +%double left click -- select a lot word
