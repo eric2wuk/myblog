@@ -11,3 +11,4 @@ tags:
     https://www.daovoice.io/
 * 配置到 next
 ![image.png](https://upload-images.jianshu.io/upload_images/4832809-eb9779692fb5f3c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 接入DaoVoice
