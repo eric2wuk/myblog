@@ -13,3 +13,9 @@ tags:
 ![image.png](https://upload-images.jianshu.io/upload_images/4832809-eb9779692fb5f3c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 接入DaoVoice
     * 感觉 @蜀都一只猫 的教程, 我就不赘述了
+    
+* issue
+   * 和我本身的阅读进度位置冲突了, 需要调整
+   *  ![image.png](https://upload-images.jianshu.io/upload_images/4832809-9d52188586df2204.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   * ![image.png](https://upload-images.jianshu.io/upload_images/4832809-58c3f955c5b0684d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+   * 在主题配置中关闭
