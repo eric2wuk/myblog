@@ -821,3 +821,8 @@ images: images
 
 # Theme version
 version: 5.1.4
+
+# talking module
+daovoice:
+  enable: true
+  app_id: 235bb14b
