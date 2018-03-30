@@ -26,6 +26,7 @@ tags: [Linux,basic, LinuxCommand]
     * ctrl + c -- 终止程序
     * ctrl + d -- 结束输入
     * shift + PgUp/PgDn -- 翻页
-    
+* 文件系统结构
+![image.png](https://upload-images.jianshu.io/upload_images/4832809-73b984ccd2365a89.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 bookmark 5.1 
 page 204 / 1051
