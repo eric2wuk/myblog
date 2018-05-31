@@ -24,6 +24,9 @@ ok
 #### Hexo
 同事推荐Hexo, 看了看, 好像更简单, 值得尝试
 官网 https://hexo.io/zh-cn/docs/writing.html
+* npm install -g hexo-cli
+    * 发现原有的hexo git 目录 移植后 失效 ， 重新 开始 " npm install hexo --save"
+    * hexo server -p 80 ;
 * 安装node
 ![image.png](http://upload-images.jianshu.io/upload_images/4832809-63e3b3d26ed04f6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 国内环境换一个镜像还是有必要的
