@@ -13,3 +13,9 @@ tags: [Linux,basic, LinuxCommand]
     * ![image.png](https://upload-images.jianshu.io/upload_images/4832809-36b67e97ab4b9d57.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * vimdiff 我才知道linux 默认有这个工具
     * ![image.png](https://upload-images.jianshu.io/upload_images/4832809-06251e63e7cde409.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* help 
+    * type 
+        * ![image.png](https://upload-images.jianshu.io/upload_images/4832809-bc93103e75db9bf6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    * man
+    * info
+    * --help
